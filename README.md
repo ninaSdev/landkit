@@ -66,3 +66,6 @@ github.com
 git push origin master
                
 # Pull: 
+
+# Pour récupérer le dossier :
+git clone url du dossier (cliquer sur code en vert puis https et copier coller l'adresse URL)
